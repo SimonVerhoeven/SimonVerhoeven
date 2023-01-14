@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href="https://www.simonverhoeven.github.io">
-    My homepage
+    :house: My homepage
   </a>
   <a href="https://www.linkedin.com/in/simonverhoeven/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
