@@ -1,7 +1,7 @@
 ### Hi, my name is Simon Verhoeven. I'm a software developer living in Belgium that's always open for an interesting chat.
 
 <div id="badges">
-  <a href="https://www.simonverhoeven.github.io">
+  <a href="https://www.simonverhoeven.dev">
     :house: My homepage
   </a>
   <a href="https://www.linkedin.com/in/simonverhoeven/">
