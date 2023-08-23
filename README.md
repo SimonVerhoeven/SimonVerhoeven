@@ -2,7 +2,10 @@
 
 <div id="badges">
   <a href="https://www.simonverhoeven.dev">
-    :house: My homepage
+    <img src="https://img.shields.io/badge/homepage-blue" alt="homepage" />
+  </a>
+  <a href="https://foojay.io/today/author/simon-verhoeven/">
+    <img src="https://img.shields.io/badge/foojay-blue" alt="foojay" />
   </a>
   <a href="https://www.linkedin.com/in/simonverhoeven/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
